@@ -1,0 +1,56 @@
+header{
+
+	background-image:url(images/bg.jpg);
+}
+
+p{
+     font-size:100px;
+	color:white;
+}
+
+ul li{
+display: inline-block;
+list-style: none;
+color: black ;
+
+
+
+
+}
+div.best-vente {
+  display: flex;
+  align-items: flex-start;
+  width:500px;
+  height:500px;
+}
+
+
+ul li a {
+color: white ;
+
+
+}
+div.nos-plantes{
+display: flex;
+  
+  width:500px;
+  height:500px;
+
+}
+
+img#logo{
+width:400px;
+	
+}
+
+
+div{
+display: flex;
+  
+  width:500px;
+  height:500px;
+}
+div.nos-plantes.image2{
+
+	flex-direction:column-reverse;
+}
